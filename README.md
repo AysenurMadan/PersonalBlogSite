@@ -23,7 +23,7 @@
 1. Projeyi `xampp` klasörü içindeki `htdocs` klasörüne yerleştirin.
 2. Veritabanını `blogProjesi.sql` dosyasından içe aktarın.
 3. `config.php` içindeki veritabanı bilgilerini kontrol edin (bu dosyanın en altında bilgiler verilmiştir.)
-4. Tarayıcıda `http://localhost/blogProjesi` adresini açın.
+4. Tarayıcıda `http://localhost/PersonalBlogSite` adresini açın.
 
  Yönetici Girişi
 
